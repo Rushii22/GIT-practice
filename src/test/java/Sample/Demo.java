@@ -9,6 +9,9 @@ public class Demo {
 		System.out.println("Hii2");
 		System.out.println("Hii3");
 		System.out.println("Good morning");
+		
+		System.out.println("Good afternoon");
+
 
 	}
 
